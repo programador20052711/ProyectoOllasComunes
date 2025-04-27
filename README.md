@@ -1,1 +1,2 @@
-# ProyectoOllasComunes
+Colaboradores
+RAFAEL ROSALES
